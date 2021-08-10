@@ -3,12 +3,6 @@
   (this file) appears on your GitHub profile.
 -->
 
-<!--
-  thx to https://github.com/devicons/devicon/
-  https://devicon.dev/
--->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
 ## Mae govannen :wave:
 
 Just writing code for my own pleasure
@@ -17,37 +11,35 @@ Just writing code for my own pleasure
 
 ### Languages and Tools
 
-<a href="https://code.visualstudio.com/"><i style="font-size: 3em;" class="devicon-vscode-plain colored icon"></i></a>
-<a href="https://visualstudio.microsoft.com/"><i style="font-size: 3em;" class="devicon-visualstudio-plain colored icon"></i></a>
-<a href="https://www.docker.com/"><i style="font-size: 3em;" class="devicon-docker-plain colored icon"></i></a>
-<a href="https://www.gnu.org/software/bash/"><i style="font-size: 3em;" class="devicon-bash-plain icon"></i></a>
-<a href="https://www.mozilla.org/en-US/firefox/new/"><i style="font-size: 3em;" class="devicon-firefox-plain colored icon"></i></a>
-<a href="https://git-scm.com/"><i style="font-size: 3em;" class="devicon-git-plain colored icon"></i></a>
-<a href="https://github.com/"><i style="font-size: 3em;" class="devicon-github-original-wordmark icon"></i></a>
-<a href="https://www.linux.org/"><i style="font-size: 3em;" class="devicon-linux-plain icon"></i></a>
-<a href="https://www.mysql.com/"><i style="font-size: 3em;" class="devicon-mysql-plain colored icon"></i></a>
-<a href="https://www.openssh.com/"><i style="font-size: 3em;" class="devicon-ssh-original-wordmark icon"></i></a>
-<a href="https://moodle.org/"><i style="font-size: 3em;" class="devicon-moodle-plain colored icon"></i></a>
-<a href="https://httpd.apache.org/"><i style="font-size: 3em;" class="devicon-apache-plain-wordmark colored icon"></i></a>
-<a href="https://getcomposer.org/"><i style="font-size: 3em;" class="devicon-composer-line icon"></i></a>
-<a href="https://www.google.com/chrome/"><i style="font-size: 3em;" class="devicon-chrome-plain colored icon"></i></a>
-<a href="https://en.cppreference.com/w/c/language"><i style="font-size: 3em;" class="devicon-c-plain colored icon"></i></a>
-<a href="https://en.cppreference.com/w/cpp/language"><i style="font-size: 3em;" class="devicon-cplusplus-plain colored icon"></i></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><i style="font-size: 3em;" class="devicon-csharp-plain colored icon"></i></a>
-<a href="https://www.w3.org/Style/CSS/current-work.en.html"><i style="font-size: 3em;" class="devicon-css3-plain colored icon"></i></a>
-<a href="https://dotnet.microsoft.com/download"><i style="font-size: 3em;" class="devicon-dotnetcore-plain colored icon"></i></a>
-<a href="https://www.google.com/"><i style="font-size: 3em;" class="devicon-google-plain colored icon"></i></a>
-<a href="https://html.spec.whatwg.org/"><i style="font-size: 3em;" class="devicon-html5-plain colored icon"></i></a>
-<a href="https://www.java.com/"><i style="font-size: 3em;" class="devicon-java-plain colored icon"></i></a>
-<a href="https://laravel.com/"><i style="font-size: 3em;" class="devicon-laravel-plain colored icon"></i></a>
-<a href="https://www.npmjs.com/"><i style="font-size: 3em;" class="devicon-npm-original-wordmark colored icon"></i></a>
-<a href="https://www.nginx.com/"><i style="font-size: 3em;" class="devicon-nginx-original colored icon"></i></a>
-<a href="https://www.php.net/"><i style="font-size: 3em;" class="devicon-php-plain colored icon"></i></a>
-<a href="https://www.python.org/"><i style="font-size: 3em;" class="devicon-python-plain colored icon"></i></a>
-<a href="https://www.rust-lang.org/"><i style="font-size: 3em;" class="devicon-rust-plain colored icon"></i></a>
-<a href="https://slack.com/"><i style="font-size: 3em;" class="devicon-slack-plain icon"></i></a>
-
-<br/>
+<a href="https://code.visualstudio.com/"><img src="icons/vscode/vscode-original.svg" width="30px"></a>
+<a href="https://visualstudio.microsoft.com/"><img src="icons/visualstudio/visualstudio-plain.svg" width="30px"></a>
+<a href="https://www.docker.com/"><img src="icons/docker/docker-original.svg" width="30px"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="icons/bash/bash-plain.svg" width="30px"></a>
+<a href="https://www.mozilla.org/en-US/firefox/new/"><img src="icons/firefox/firefox-plain.svg" width="30px"></a>
+<a href="https://git-scm.com/"><img src="icons/git/git-plain.svg" width="30px"></a>
+<a href="https://github.com/"><img src="icons/github/github-original.svg" width="30px"></a>
+<a href="https://www.linux.org/"><img src="icons/linux/linux-original.svg" width="30px"></a>
+<a href="https://www.mysql.com/"><img src="icons/mysql/mysql-plain.svg" width="30px"></a>
+<a href="https://www.openssh.com/"><img src="icons/ssh/ssh-original.svg" width="30px"></a>
+<a href="https://moodle.org/"><img src="icons/moodle/moodle-plain.svg" width="30px"></a>
+<a href="https://httpd.apache.org/"><img src="icons/apache/apache-plain.svg" width="30px"></a>
+<a href="https://getcomposer.org/"><img src="icons/composer/composer-original.svg" width="30px"></a>
+<a href="https://www.google.com/chrome/"><img src="icons/chrome/chrome-original.svg" width="30px"></a>
+<a href="https://en.cppreference.com/w/c/language"><img src="icons/c/c-original.svg" width="30px"></a>
+<a href="https://en.cppreference.com/w/cpp/language"><img src="icons/cplusplus/cplusplus-original.svg" width="30px"></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="icons/csharp/csharp-original.svg" width="30px"></a>
+<a href="https://www.w3.org/Style/CSS/current-work.en.html"><img src="icons/css3/css3-original.svg" width="30px"></a>
+<a href="https://dotnet.microsoft.com/download"><img src="icons/dotnetcore/dotnetcore-original.svg" width="30px"></a>
+<a href="https://www.google.com/"><img src="icons/google/google-original.svg" width="30px"></a>
+<a href="https://html.spec.whatwg.org/"><img src="icons/html5/html5-original.svg" width="30px"></a>
+<a href="https://www.java.com/"><img src="icons/java/java-original.svg" width="30px"></a>
+<a href="https://laravel.com/"><img src="icons/laravel/laravel-plain.svg" width="30px"></a>
+<a href="https://www.npmjs.com/"><img src="icons/npm/npm-original-wordmark.svg" width="30px"></a>
+<a href="https://www.nginx.com/"><img src="icons/nginx/nginx-original.svg" width="30px"></a>
+<a href="https://www.php.net/"><img src="icons/php/php-original.svg" width="30px"></a>
+<a href="https://www.python.org/"><img src="icons/python/python-original.svg" width="30px"></a>
+<a href="https://www.rust-lang.org/"><img src="icons/rust/rust-plain.svg" width="30px"></a>
+<a href="https://slack.com/"><img src="icons/slack/slack-original.svg" width="30px"></a>
 
 ### Contact with me
 
