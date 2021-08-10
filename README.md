@@ -4,7 +4,7 @@ Just writing code for my own pleasure
 
 ---
 
-### Languages and Tools:
+### Languages and Tools
 
 <a href="https://code.visualstudio.com/">
   <img align="left" alt="" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
@@ -95,40 +95,38 @@ Just writing code for my own pleasure
 </a>
 
 <br/>
+---
 <br/>
 
 ### Contact with me
 
-[<img align="left" alt="Telegram" width="25px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/telegram.svg"/>][telegram]
-[<img align="left" alt="GMail" width="25px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-gmail.svg"/>][gmail]
-[<img align="left" alt="Discord" width="25px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/discord-icon.svg"/>][discord]
-[<img align="left" alt="Instagram" width="25px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/instagram-icon.svg"/>][instagram]
+[<img align="left" alt="Telegram" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg"/>][telegram]
+[<img align="left" alt="GMail" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg"/>][gmail]
+[<img align="left" alt="Discord" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg"/>][discord]
+[<img align="left" alt="Instagram" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"/>][instagram]
 
 <br/>
 
 ---
 
-### My stats
+<details>
+  <summary>:zap: GitHub stats</summary>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andinoriel&theme=material-palenight&hide_border=true&count_private=true&show_icons=true)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andinoriel&theme=material-palenight&hide_border=true&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andinoriel&theme=material-palenight&hide_border=true&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andinoriel&theme=material-palenight&hide_border=true&layout=compact)
+</details>
 
 ---
 
-### Recent activity
+<details>
+  <summary>:zap: Recent activity</summary>
 
-<!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. ⭐ Starred [Vemestael/stepik](https://github.com/Vemestael/stepik)
-5. ⭐ Starred [intusmortius/file-storage](https://github.com/intusmortius/file-storage)
-<!--RECENT_ACTIVITY:end-->
+  <!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 10th, 2021, 11:23:56 AM
-<!--RECENT_ACTIVITY:last_update_end-->
+  <!--RECENT_ACTIVITY:last_update-->
+
+</details>
 
 ---
 
