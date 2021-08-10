@@ -40,6 +40,9 @@ Just writing code for my own pleasure
 <a href="https://www.python.org/"><img src="icons/python/python-original.svg" width="30px"></a>
 <a href="https://www.rust-lang.org/"><img src="icons/rust/rust-plain.svg" width="30px"></a>
 <a href="https://slack.com/"><img src="icons/slack/slack-original.svg" width="30px"></a>
+<a href="https://sass-lang.com/"><img src="icons/sass/sass-original.svg" width="30px"></a>
+<a href="https://www.microsoft.com/en-us/windows/"><img src="icons/windows8/windows8-original.svg" width="30px"></a>
+<a href="https://www.figma.com/"><img src="icons/figma/figma-original.svg" width="30px"></a>
 
 ### Contact with me
 
@@ -47,6 +50,7 @@ Just writing code for my own pleasure
 [<img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 [<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>][discord]
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]
+[<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>][reddit]
 
 ---
 
@@ -68,16 +72,8 @@ Just writing code for my own pleasure
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. ⭐ Starred [Vemestael/stepik](https://github.com/Vemestael/stepik)
-5. ⭐ Starred [intusmortius/file-storage](https://github.com/intusmortius/file-storage)
-<!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 10th, 2021, 4:08:35 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
 
@@ -87,3 +83,4 @@ Last Updated: Tuesday, August 10th, 2021, 4:08:35 PM
 [gmail]: mailto:simonnikolaj20@gmail.com
 [discord]: https://discordapp.com/users/524889744061104128/
 [instagram]: https://instagram.com/andinoriel
+[reddit]: https://www.reddit.com/user/andinoriel_official
