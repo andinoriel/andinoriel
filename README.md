@@ -119,8 +119,16 @@ Just writing code for my own pleasure
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+3. ⭐ Starred [Vemestael/stepik](https://github.com/Vemestael/stepik)
+4. ⭐ Starred [intusmortius/file-storage](https://github.com/intusmortius/file-storage)
+5. ⭐ Starred [tj-actions/changed-files](https://github.com/tj-actions/changed-files)
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Tuesday, August 10th, 2021, 11:16:41 AM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 
