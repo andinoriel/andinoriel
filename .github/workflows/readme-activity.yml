@@ -2,7 +2,7 @@ name: Update README.md
 
 on:
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '0 0 * * *' # runs at 00:00 UTC every day
   workflow_dispatch:
 
 jobs:
