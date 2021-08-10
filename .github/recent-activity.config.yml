@@ -1,6 +1,6 @@
 settings:
   username: "andinoriel"
-  commit_msg: "⚡ update README.md with the recent activity"
+  commit_msg: "⚡ Update README.md with the recent activity"
   max_lines: 5
   readme_file: "./README.md"
   disabled_events:
