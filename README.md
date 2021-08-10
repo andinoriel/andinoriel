@@ -68,16 +68,8 @@ Just writing code for my own pleasure
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. ⭐ Starred [Vemestael/stepik](https://github.com/Vemestael/stepik)
-5. ⭐ Starred [intusmortius/file-storage](https://github.com/intusmortius/file-storage)
-<!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 10th, 2021, 4:04:50 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
 
