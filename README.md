@@ -76,8 +76,16 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [willmcgugan/textual](https://github.com/willmcgugan/textual)
+2. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+5. ⭐ Starred [Vemestael/stepik](https://github.com/Vemestael/stepik)
+<!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
+Last updated at 2021-08-11, 11:35:thth
+<!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
 
