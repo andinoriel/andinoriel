@@ -8,8 +8,8 @@ settings:
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+02:00"
-    text: "Last Updated: {DATE}"
-    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+    text: "Last updated at {DATE}"
+    format: "yyyy-mm-dd, HH:MM:SS"
   commit_username: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
 
