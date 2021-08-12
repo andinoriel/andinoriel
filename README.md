@@ -3,14 +3,15 @@
   (this file) appears on your GitHub profile.
 -->
 
-<img align="right" src="typing.gif" width="350px">
+<img align="right" src="typing.gif" width="400px">
 
 ## Mae govannen :wave:
 
+- :page_facing_up: Feel free to visit my [profile] page 
 - :computer: I'm looking to collaborate on open source projects
 - :mortar_board: I'm currently studying at the university
 - :speech_balloon: You can ask me about anything
-- :zap: Fun fact: Once, I made it rain with an elvish spell :laughing:
+- :zap: Fun fact: once, I made it rain with an elvish spell :laughing:
 
 
 ### Languages and Tools
@@ -68,7 +69,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andinoriel&theme=dark&hide_border=true&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andinoriel&theme=dark&hide_border=true&layout=compact&langs_count=6)
 
 </details>
 
@@ -96,3 +97,4 @@ Last updated at 2021-08-12, 03:03:08
 [discord]: https://discordapp.com/users/524889744061104128/
 [instagram]: https://instagram.com/andinoriel
 [reddit]: https://www.reddit.com/user/andinoriel_official
+[profile]: https://andinoriel.github.io/
