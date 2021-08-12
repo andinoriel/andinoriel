@@ -77,15 +77,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 📔 Created new repository [andinoriel/andinoriel.github.io](https://github.com/andinoriel/andinoriel.github.io)
-3. ⭐ Starred [willmcgugan/textual](https://github.com/willmcgugan/textual)
-4. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ⭐ Starred [RikkaApps/Riru](https://github.com/RikkaApps/Riru)
+2. ⭐ Starred [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
+3. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 📔 Created new repository [andinoriel/andinoriel.github.io](https://github.com/andinoriel/andinoriel.github.io)
+5. ⭐ Starred [willmcgugan/textual](https://github.com/willmcgugan/textual)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2021-08-12, 03:03:08
+Last updated at 2021-08-12, 12:37:42
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
