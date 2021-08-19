@@ -77,15 +77,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [actions/checkout](https://github.com/actions/checkout)
-2. ⭐ Starred [RikkaApps/Riru](https://github.com/RikkaApps/Riru)
-3. ⭐ Starred [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
-4. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 📔 Created new repository [andinoriel/andinoriel.github.io](https://github.com/andinoriel/andinoriel.github.io)
+1. ⭐ Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+2. ⭐ Starred [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+3. ⭐ Starred [actions/checkout](https://github.com/actions/checkout)
+4. ⭐ Starred [RikkaApps/Riru](https://github.com/RikkaApps/Riru)
+5. ⭐ Starred [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2021-08-18, 03:03:43
+Last updated at 2021-08-19, 02:56:35
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
