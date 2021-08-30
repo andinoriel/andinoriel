@@ -77,15 +77,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [davatorium/rofi](https://github.com/davatorium/rofi)
-2. ⭐ Starred [alesanfra/dlib-wheels](https://github.com/alesanfra/dlib-wheels)
-3. ⭐ Starred [davisking/dlib-models](https://github.com/davisking/dlib-models)
-4. ⭐ Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-5. ⭐ Starred [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell)
+1. ⭐ Starred [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+2. ⭐ Starred [davatorium/rofi](https://github.com/davatorium/rofi)
+3. ⭐ Starred [alesanfra/dlib-wheels](https://github.com/alesanfra/dlib-wheels)
+4. ⭐ Starred [davisking/dlib-models](https://github.com/davisking/dlib-models)
+5. ⭐ Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2021-08-29, 03:05:46
+Last updated at 2021-08-30, 03:03:09
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
