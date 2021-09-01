@@ -92,15 +92,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [andinoriel/recent-activity](https://github.com/andinoriel/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ⭐ Starred [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch)
-3. ⭐ Starred [davatorium/rofi](https://github.com/davatorium/rofi)
-4. ⭐ Starred [alesanfra/dlib-wheels](https://github.com/alesanfra/dlib-wheels)
-5. ⭐ Starred [davisking/dlib-models](https://github.com/davisking/dlib-models)
+1. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+2. ⭐ Starred [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+3. ⭐ Starred [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+4. 🔱 Forked [andinoriel/recent-activity](https://github.com/andinoriel/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ⭐ Starred [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2021-09-01, 03:10:43
+Last updated at 2021-09-01, 16:04:29
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
