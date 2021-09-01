@@ -62,14 +62,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <p align="center">
+  <div align="center">
     <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=andinoriel&theme=great-gatsby&hide_border=true&count_private=true&show_icons=true">
-    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=andinoriel&theme=great-gatsby">
-  </p>
+    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=andinoriel&theme=great-gatsby&hide_border=true">
+  </div>
 
-  <p align="center">
+  <div align="center">
     <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=andinoriel&bg_color=000000&color=ffd95b&line=ffb74d&point=ffa726&area=true&hide_border=true&custom_title=Last%20Month%20Contributions%20Graph">
-  </p>
+  </div>
 
 </details>
 
