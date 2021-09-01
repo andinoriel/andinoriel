@@ -7,7 +7,7 @@
 
 ## Mae govannen :wave:
 
-- :page_facing_up: Feel free to visit my [profile] page 
+- :page_facing_up: Feel free to visit my [profile] page
 - :computer: I'm looking to collaborate on open source projects
 - :mortar_board: I'm currently studying at the university
 - :speech_balloon: You can ask me about anything
@@ -62,14 +62,21 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andinoriel&theme=dark&hide_border=true&count_private=true&show_icons=true)
+  <p align="center">
+    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=andinoriel&theme=great-gatsby&hide_border=true&count_private=true&show_icons=true">
+    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=andinoriel&theme=great-gatsby">
+  </p>
+
+  <p align="center">
+    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=andinoriel&bg_color=000000&color=ffd95b&line=ffb74d&point=ffa726&area=true&hide_border=true&custom_title=Last%20Month%20Contributions%20Graph">
+  </p>
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andinoriel&theme=dark&hide_border=true&layout=compact&langs_count=6)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andinoriel&theme=great-gatsby&hide_border=true&layout=compact&langs_count=6)
 
 </details>
 
