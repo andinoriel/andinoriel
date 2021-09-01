@@ -16,6 +16,7 @@
 
 ### Languages and Tools
 
+<!--
 <a href="https://code.visualstudio.com/"><img src="icons/vscode/vscode-original.svg" width="30px"></a>
 <a href="https://visualstudio.microsoft.com/"><img src="icons/visualstudio/visualstudio-plain.svg" width="30px"></a>
 <a href="https://www.docker.com/"><img src="icons/docker/docker-original.svg" width="30px"></a>
@@ -48,6 +49,9 @@
 <a href="https://sass-lang.com/"><img src="icons/sass/sass-original.svg" width="30px"></a>
 <a href="https://www.microsoft.com/en-us/windows/"><img src="icons/windows8/windows8-original.svg" width="30px"></a>
 <a href="https://www.figma.com/"><img src="icons/figma/figma-original.svg" width="30px"></a>
+-->
+
+<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" width="30px"></a>
 
 ### Contact with me
 
