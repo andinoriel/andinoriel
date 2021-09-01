@@ -16,38 +16,46 @@
 
 ### Languages and Tools
 
-<a href="https://code.visualstudio.com/"><img src="icons/vscode/vscode-original.svg" width="30px"></a>
-<a href="https://visualstudio.microsoft.com/"><img src="icons/visualstudio/visualstudio-plain.svg" width="30px"></a>
-<a href="https://www.docker.com/"><img src="icons/docker/docker-original.svg" width="30px"></a>
-<a href="https://www.gnu.org/software/bash/"><img src="icons/bash/bash-plain.svg" width="30px"></a>
-<a href="https://www.mozilla.org/en-US/firefox/new/"><img src="icons/firefox/firefox-plain.svg" width="30px"></a>
-<a href="https://git-scm.com/"><img src="icons/git/git-plain.svg" width="30px"></a>
-<a href="https://github.com/"><img src="icons/github/github-original.svg" width="30px"></a>
-<a href="https://www.linux.org/"><img src="icons/linux/linux-original.svg" width="30px"></a>
-<a href="https://www.mysql.com/"><img src="icons/mysql/mysql-plain.svg" width="30px"></a>
-<a href="https://www.openssh.com/"><img src="icons/ssh/ssh-original.svg" width="30px"></a>
-<a href="https://moodle.org/"><img src="icons/moodle/moodle-plain.svg" width="30px"></a>
-<a href="https://httpd.apache.org/"><img src="icons/apache/apache-plain.svg" width="30px"></a>
-<a href="https://getcomposer.org/"><img src="icons/composer/composer-original.svg" width="30px"></a>
-<a href="https://www.google.com/chrome/"><img src="icons/chrome/chrome-original.svg" width="30px"></a>
-<a href="https://en.cppreference.com/w/c/language"><img src="icons/c/c-original.svg" width="30px"></a>
-<a href="https://en.cppreference.com/w/cpp/language"><img src="icons/cplusplus/cplusplus-original.svg" width="30px"></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="icons/csharp/csharp-original.svg" width="30px"></a>
-<a href="https://www.w3.org/Style/CSS/current-work.en.html"><img src="icons/css3/css3-original.svg" width="30px"></a>
-<a href="https://dotnet.microsoft.com/download"><img src="icons/dotnetcore/dotnetcore-original.svg" width="30px"></a>
-<a href="https://www.google.com/"><img src="icons/google/google-original.svg" width="30px"></a>
-<a href="https://html.spec.whatwg.org/"><img src="icons/html5/html5-original.svg" width="30px"></a>
-<a href="https://www.java.com/"><img src="icons/java/java-original.svg" width="30px"></a>
-<a href="https://laravel.com/"><img src="icons/laravel/laravel-plain.svg" width="30px"></a>
-<a href="https://www.npmjs.com/"><img src="icons/npm/npm-original-wordmark.svg" width="30px"></a>
-<a href="https://www.nginx.com/"><img src="icons/nginx/nginx-original.svg" width="30px"></a>
-<a href="https://www.php.net/"><img src="icons/php/php-original.svg" width="30px"></a>
-<a href="https://www.python.org/"><img src="icons/python/python-original.svg" width="30px"></a>
-<a href="https://www.rust-lang.org/"><img src="icons/rust/rust-plain.svg" width="30px"></a>
-<a href="https://slack.com/"><img src="icons/slack/slack-original.svg" width="30px"></a>
-<a href="https://sass-lang.com/"><img src="icons/sass/sass-original.svg" width="30px"></a>
-<a href="https://www.microsoft.com/en-us/windows/"><img src="icons/windows8/windows8-original.svg" width="30px"></a>
-<a href="https://www.figma.com/"><img src="icons/figma/figma-original.svg" width="30px"></a>
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+
+[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/download)
+[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c/language)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp/language)
+[![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/current-work.en.html)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
+[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
+[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)](https://archlinux.org/)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
+[![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+
 
 ### Contact with me
 
