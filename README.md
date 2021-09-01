@@ -3,7 +3,7 @@
   (this file) appears on your GitHub profile.
 -->
 
-<img align="right" src="typing.gif" width="400px">
+<img align="right" src="rain.gif" width="300px">
 
 ## Mae govannen :wave:
 
