@@ -102,15 +102,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jdsmith2816/emw](https://github.com/jdsmith2816/emw)
-2. ⭐ Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
+1. ⭐ Starred [mwilsnd/SkyrimSE-SmoothCam](https://github.com/mwilsnd/SkyrimSE-SmoothCam)
+2. ⭐ Starred [jdsmith2816/emw](https://github.com/jdsmith2816/emw)
 3. ⭐ Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
-4. ⭐ Starred [slacka/WoeUSB](https://github.com/slacka/WoeUSB)
-5. ❌ Closed PR [#82](https://github.com/Ashutosh00710/github-readme-activity-graph/pull/82) in [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+4. ⭐ Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
+5. ⭐ Starred [slacka/WoeUSB](https://github.com/slacka/WoeUSB)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2021-09-21, 14:07:29
+Last updated at 2021-09-22, 02:18:49
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
