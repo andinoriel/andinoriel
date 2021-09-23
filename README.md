@@ -102,15 +102,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mwilsnd/SkyrimSE-SmoothCam](https://github.com/mwilsnd/SkyrimSE-SmoothCam)
-2. ⭐ Starred [jdsmith2816/emw](https://github.com/jdsmith2816/emw)
-3. ⭐ Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
+1. ⭐ Starred [ersh1/TrueDirectionalMovement](https://github.com/ersh1/TrueDirectionalMovement)
+2. ⭐ Starred [mwilsnd/SkyrimSE-SmoothCam](https://github.com/mwilsnd/SkyrimSE-SmoothCam)
+3. ⭐ Starred [jdsmith2816/emw](https://github.com/jdsmith2816/emw)
 4. ⭐ Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
-5. ⭐ Starred [slacka/WoeUSB](https://github.com/slacka/WoeUSB)
+5. ⭐ Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2021-09-22, 14:07:26
+Last updated at 2021-09-23, 02:18:35
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
