@@ -102,15 +102,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ersh1/TrueDirectionalMovement](https://github.com/ersh1/TrueDirectionalMovement)
-2. ⭐ Starred [mwilsnd/SkyrimSE-SmoothCam](https://github.com/mwilsnd/SkyrimSE-SmoothCam)
-3. ⭐ Starred [jdsmith2816/emw](https://github.com/jdsmith2816/emw)
-4. ⭐ Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
+1. 💬 Commented on [#436](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/issues/436#issuecomment-927125642) in [ShikyoKira/Project-New-Reign---Nemesis-Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
+2. ⭐ Starred [ersh1/TrueDirectionalMovement](https://github.com/ersh1/TrueDirectionalMovement)
+3. ⭐ Starred [mwilsnd/SkyrimSE-SmoothCam](https://github.com/mwilsnd/SkyrimSE-SmoothCam)
+4. ⭐ Starred [jdsmith2816/emw](https://github.com/jdsmith2816/emw)
 5. ⭐ Starred [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2021-09-25, 14:06:47
+Last updated at 2021-09-26, 02:19:36
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
