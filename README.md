@@ -102,15 +102,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Manas140/sh](https://github.com/Manas140/sh)
-2. 🔱 Forked [andinoriel/developerWorks](https://github.com/andinoriel/developerWorks) from [makotogo/developerWorks](https://github.com/makotogo/developerWorks)
-3. ⭐ Starred [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)
-4. 💬 Commented on [#436](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/issues/436#issuecomment-927125642) in [ShikyoKira/Project-New-Reign---Nemesis-Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
-5. ⭐ Starred [ersh1/TrueDirectionalMovement](https://github.com/ersh1/TrueDirectionalMovement)
+1. ⭐ Starred [tsynik/LeanbackLauncher](https://github.com/tsynik/LeanbackLauncher)
+2. ⭐ Starred [Manas140/sh](https://github.com/Manas140/sh)
+3. 🔱 Forked [andinoriel/developerWorks](https://github.com/andinoriel/developerWorks) from [makotogo/developerWorks](https://github.com/makotogo/developerWorks)
+4. ⭐ Starred [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)
+5. 💬 Commented on [#436](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/issues/436#issuecomment-927125642) in [ShikyoKira/Project-New-Reign---Nemesis-Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2021-10-24, 02:19:55
+Last updated at 2021-10-24, 14:07:20
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
