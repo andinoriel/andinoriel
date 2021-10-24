@@ -102,15 +102,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [andinoriel/developerWorks](https://github.com/andinoriel/developerWorks) from [makotogo/developerWorks](https://github.com/makotogo/developerWorks)
-2. ⭐ Starred [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)
-3. 💬 Commented on [#436](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/issues/436#issuecomment-927125642) in [ShikyoKira/Project-New-Reign---Nemesis-Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
-4. ⭐ Starred [ersh1/TrueDirectionalMovement](https://github.com/ersh1/TrueDirectionalMovement)
-5. ⭐ Starred [mwilsnd/SkyrimSE-SmoothCam](https://github.com/mwilsnd/SkyrimSE-SmoothCam)
+1. ⭐ Starred [Manas140/sh](https://github.com/Manas140/sh)
+2. 🔱 Forked [andinoriel/developerWorks](https://github.com/andinoriel/developerWorks) from [makotogo/developerWorks](https://github.com/makotogo/developerWorks)
+3. ⭐ Starred [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent)
+4. 💬 Commented on [#436](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/issues/436#issuecomment-927125642) in [ShikyoKira/Project-New-Reign---Nemesis-Main](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main)
+5. ⭐ Starred [ersh1/TrueDirectionalMovement](https://github.com/ersh1/TrueDirectionalMovement)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2021-10-23, 14:07:02
+Last updated at 2021-10-24, 02:19:55
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
