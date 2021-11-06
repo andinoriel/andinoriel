@@ -102,15 +102,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [andinoriel/vigenere-freq](https://github.com/andinoriel/vigenere-freq)
-2. 🎉 Merged PR [#1](https://github.com/andinoriel/NcaaMarchMadness/pull/1) in [andinoriel/NcaaMarchMadness](https://github.com/andinoriel/NcaaMarchMadness)
-3. 📔 Created new repository [andinoriel/NcaaMarchMadness](https://github.com/andinoriel/NcaaMarchMadness)
-4. ⭐ Starred [joni22u/rofi-themes](https://github.com/joni22u/rofi-themes)
-5. ⭐ Starred [tsynik/LeanbackLauncher](https://github.com/tsynik/LeanbackLauncher)
+1. ✌️ Released [v1.0.1](https://github.com/andinoriel/vigenere-freq/releases/tag/v1.0.1) in [andinoriel/vigenere-freq](https://github.com/andinoriel/vigenere-freq)
+2. 📔 Created new repository [andinoriel/vigenere-freq](https://github.com/andinoriel/vigenere-freq)
+3. 🎉 Merged PR [#1](https://github.com/andinoriel/NcaaMarchMadness/pull/1) in [andinoriel/NcaaMarchMadness](https://github.com/andinoriel/NcaaMarchMadness)
+4. 📔 Created new repository [andinoriel/NcaaMarchMadness](https://github.com/andinoriel/NcaaMarchMadness)
+5. ⭐ Starred [joni22u/rofi-themes](https://github.com/joni22u/rofi-themes)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2021-11-05, 14:07:56
+Last updated at 2021-11-06, 02:18:09
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
