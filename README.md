@@ -102,15 +102,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.0.1](https://github.com/andinoriel/vigenere-freq/releases/tag/v1.0.1) in [andinoriel/vigenere-freq](https://github.com/andinoriel/vigenere-freq)
-2. 📔 Created new repository [andinoriel/vigenere-freq](https://github.com/andinoriel/vigenere-freq)
-3. 🎉 Merged PR [#1](https://github.com/andinoriel/NcaaMarchMadness/pull/1) in [andinoriel/NcaaMarchMadness](https://github.com/andinoriel/NcaaMarchMadness)
-4. 📔 Created new repository [andinoriel/NcaaMarchMadness](https://github.com/andinoriel/NcaaMarchMadness)
-5. ⭐ Starred [joni22u/rofi-themes](https://github.com/joni22u/rofi-themes)
+1. ✌️ Released [v1.0.2](https://github.com/andinoriel/vigenere-freq/releases/tag/v1.0.2) in [andinoriel/vigenere-freq](https://github.com/andinoriel/vigenere-freq)
+2. ✌️ Released [v1.0.1](https://github.com/andinoriel/vigenere-freq/releases/tag/v1.0.1) in [andinoriel/vigenere-freq](https://github.com/andinoriel/vigenere-freq)
+3. 📔 Created new repository [andinoriel/vigenere-freq](https://github.com/andinoriel/vigenere-freq)
+4. 🎉 Merged PR [#1](https://github.com/andinoriel/NcaaMarchMadness/pull/1) in [andinoriel/NcaaMarchMadness](https://github.com/andinoriel/NcaaMarchMadness)
+5. 📔 Created new repository [andinoriel/NcaaMarchMadness](https://github.com/andinoriel/NcaaMarchMadness)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2021-11-07, 02:19:38
+Last updated at 2021-11-07, 14:07:19
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
