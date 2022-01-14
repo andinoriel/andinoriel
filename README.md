@@ -102,15 +102,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nikohonu/dotfiles](https://github.com/nikohonu/dotfiles)
-2. ⭐ Starred [NasiRawon/AlternateConversationCamera](https://github.com/NasiRawon/AlternateConversationCamera)
-3. ⭐ Starred [mifi/lossless-cut](https://github.com/mifi/lossless-cut)
-4. ✌️ Released [v1.0.3](https://github.com/andinoriel/vigenere-freq/releases/tag/V1.0.3) in [andinoriel/vigenere-freq](https://github.com/andinoriel/vigenere-freq)
-5. ✌️ Released [v1.0.2](https://github.com/andinoriel/vigenere-freq/releases/tag/v1.0.2) in [andinoriel/vigenere-freq](https://github.com/andinoriel/vigenere-freq)
+1. ⭐ Starred [loot/loot](https://github.com/loot/loot)
+2. ⭐ Starred [nikohonu/dotfiles](https://github.com/nikohonu/dotfiles)
+3. ⭐ Starred [NasiRawon/AlternateConversationCamera](https://github.com/NasiRawon/AlternateConversationCamera)
+4. ⭐ Starred [mifi/lossless-cut](https://github.com/mifi/lossless-cut)
+5. ✌️ Released [v1.0.3](https://github.com/andinoriel/vigenere-freq/releases/tag/V1.0.3) in [andinoriel/vigenere-freq](https://github.com/andinoriel/vigenere-freq)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2022-01-13, 14:09:23
+Last updated at 2022-01-14, 02:22:09
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
