@@ -102,15 +102,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SlavicPotato/ied-dev](https://github.com/SlavicPotato/ied-dev)
-2. ⭐ Starred [SlavicPotato/SimpleDualSheath](https://github.com/SlavicPotato/SimpleDualSheath)
-3. ⭐ Starred [SlavicPotato/SSEDisplayTweaks](https://github.com/SlavicPotato/SSEDisplayTweaks)
-4. ⭐ Starred [loot/loot](https://github.com/loot/loot)
-5. ⭐ Starred [nikohonu/dotfiles](https://github.com/nikohonu/dotfiles)
+1. ⭐ Starred [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer)
+2. ⭐ Starred [SlavicPotato/ied-dev](https://github.com/SlavicPotato/ied-dev)
+3. ⭐ Starred [SlavicPotato/SimpleDualSheath](https://github.com/SlavicPotato/SimpleDualSheath)
+4. ⭐ Starred [SlavicPotato/SSEDisplayTweaks](https://github.com/SlavicPotato/SSEDisplayTweaks)
+5. ⭐ Starred [loot/loot](https://github.com/loot/loot)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2022-01-25, 02:22:34
+Last updated at 2022-01-25, 14:10:42
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
