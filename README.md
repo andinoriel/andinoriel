@@ -91,15 +91,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ersh1/TrueHUD](https://github.com/ersh1/TrueHUD)
-2. ⭐ Starred [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer)
-3. ⭐ Starred [SlavicPotato/ied-dev](https://github.com/SlavicPotato/ied-dev)
-4. ⭐ Starred [SlavicPotato/SimpleDualSheath](https://github.com/SlavicPotato/SimpleDualSheath)
-5. ⭐ Starred [SlavicPotato/SSEDisplayTweaks](https://github.com/SlavicPotato/SSEDisplayTweaks)
+1. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+2. 🔱 Forked [andinoriel/DS3SaveUnpacker](https://github.com/andinoriel/DS3SaveUnpacker) from [tremwil/DS3SaveUnpacker](https://github.com/tremwil/DS3SaveUnpacker)
+3. ⭐ Starred [ersh1/TrueHUD](https://github.com/ersh1/TrueHUD)
+4. ⭐ Starred [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer)
+5. ⭐ Starred [SlavicPotato/ied-dev](https://github.com/SlavicPotato/ied-dev)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2022-02-03, 14:08:08
+Last updated at 2022-02-04, 02:20:40
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
