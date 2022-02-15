@@ -91,15 +91,15 @@
   <summary>:zap: Recent activity</summary>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xnyo/pybsa](https://github.com/xnyo/pybsa)
-2. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
-3. 🔱 Forked [andinoriel/DS3SaveUnpacker](https://github.com/andinoriel/DS3SaveUnpacker) from [tremwil/DS3SaveUnpacker](https://github.com/tremwil/DS3SaveUnpacker)
-4. ⭐ Starred [ersh1/TrueHUD](https://github.com/ersh1/TrueHUD)
-5. ⭐ Starred [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer)
+1. ⭐ Starred [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. ⭐ Starred [xnyo/pybsa](https://github.com/xnyo/pybsa)
+3. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+4. 🔱 Forked [andinoriel/DS3SaveUnpacker](https://github.com/andinoriel/DS3SaveUnpacker) from [tremwil/DS3SaveUnpacker](https://github.com/tremwil/DS3SaveUnpacker)
+5. ⭐ Starred [ersh1/TrueHUD](https://github.com/ersh1/TrueHUD)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2022-02-15, 02:22:55
+Last updated at 2022-02-15, 14:11:00
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
